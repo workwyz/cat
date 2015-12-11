@@ -71,3 +71,5 @@ CAT接入公司
 
 
 更多接入公司，欢迎在<https://github.com/dianping/cat/issues/753>登记
+	
+欢迎加CAT技术交流群：522366725
